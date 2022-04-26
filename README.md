@@ -1,2 +1,15 @@
-# WWDC22
-FindHashtag is my Swift Student Challenge submission for WWDC22.
+# FindHashtag
+
+![](https://raw.githubusercontent.com/berkinceylan/WWDC21/main/Resources/IdeaPrax_Header.png)
+
+# About
+
+Welcome to my WWDC22 Swift Student Challenge playground app which developed with **SwiftUI** and **CoreML**. In this Playground App file, you will find the best match hashtags for your social media contents with Machine Learning.
+
+# Getting Started
+
+To try out my Playground:
+
+1) Download the .zip file
+2) Unzip the file
+3) Open the .swiftpm with Xcode on macOS or Swift Playgrounds on iPadOS
