@@ -1,6 +1,6 @@
 # FindHashtag
 
-![](https://raw.githubusercontent.com/berkinceylan/WWDC21/main/Resources/IdeaPrax_Header.png)
+![](https://raw.githubusercontent.com/berkinceylan/WWDC22/main/Resources/Header.png)
 
 # About
 
